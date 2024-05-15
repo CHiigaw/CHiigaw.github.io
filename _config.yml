@@ -12,7 +12,7 @@ title                    : "Ahmed's Homepage"
 title_separator          : "-"
 name                     : &name "Ahmed Fahim"
 description              : &description "hola como estas amigos!!"
-url                      : https://CHiigaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chiigaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CHiigaw/CHiigaw.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ahled.fahim@uit.ac.ma" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
